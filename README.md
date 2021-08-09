@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
 -->
-- 🤔 I’m looking for help with webrtc audio/video upload.
 - 💬 Ask me about android, java, kotlin, python, django or any tech related stuff.
-- 📫 How to reach me: Linkedin : 
+- 📫 How to reach me: Linkedin : https://www.linkedin.com/in/vinaykumar-mishra-7310a1151/
 - 😄 Pronouns: He/His
+- 🤔 I’m looking for help with webrtc audio/video upload.
 - ⚡ Fun fact: I spend 14 hours coding everyday.
 
 
