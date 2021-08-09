@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Vinaykumar Mishra! 👋
 
 <!--
 **vinaykumar2197/vinaykumar2197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,14 +6,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
 -->
+- 🤔 I’m looking for help with webrtc audio/video upload.
+- 💬 Ask me about android, java, kotlin, python, django or any tech related stuff.
+- 📫 How to reach me: Linkedin : 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend 14 hours coding everyday.
+
 
 <p align="center">
 <a href="https://github-readme-stats-eight-theta.vercel.app">
