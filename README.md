@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 -->
 - 💬 Ask me about android, java, kotlin, python, django or any tech related stuff.
-- 📫 How to reach me: https://www.linkedin.com/in/vinaykumar-mishra-7310a1151/
+<!-- - 📫 How to reach me: https://www.linkedin.com/in/vinaykumar-mishra-7310a1151/ -->
 - 😄 Pronouns: He/His
 - 🤔 I’m looking for help with webrtc audio/video upload.
 - ⚡ Fun fact: I spend 14 hours coding everyday.
