@@ -1,19 +1,23 @@
 ### Hi there, I am Vinaykumar Mishra! 👋
 
-<!--
-**vinaykumar2197/vinaykumar2197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭  I’m currently working on Android Sdk's, Apps, Flutter.
 
-Here are some ideas to get you started:
+- 🌱  I’m currently learning how to create bridge between native & cross platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
--->
-- 💬 Ask me about android, java, kotlin, python, django or any tech related stuff.
-<!-- - 📫 How to reach me: https://www.linkedin.com/in/vinaykumar-mishra-7310a1151/ -->
-- 😄 Pronouns: He/His
-- 🤔 I’m looking for help with webrtc audio/video upload.
-- ⚡ Fun fact: I spend 14 hours coding everyday.
+- 👯  I’m looking to collaborate on open-source projects.
+
+- 💫  I am open to work on new ideas.
+
+ <details>
+<summary>📊 Github Stats</summary>
+
+![Vinay's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar2197&theme=vue) 
+
+</details>
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vinaykumar2197/count.svg" />
+</p>
 
 
 <p align="center">
